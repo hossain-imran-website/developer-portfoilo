@@ -19,12 +19,14 @@ section {
 .half-width img{
     width: 80%;
 }
-a{
+.button {
     text-decoration: none;
-    background-image: -webkit-gradient(orange, tomatos);
-    background-color: orange;
-    padding:20px 40px;
+    background-image: -webkit-gradient(orange, tomato);
+    background-color: rgb(0, 255, 26);
+    padding:10px 20px;
     margin-top:5px;
     border-radius: 10px;
-    font-size: 700;
+    
+    font-weight: 700;
+    
 }
